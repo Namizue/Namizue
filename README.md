@@ -1,2 +1,8 @@
-## Hi there 👋
-My name is Nabiel and i'm a beginner! Nice to meet you!
+## 👋 Hi, I’m Nabiel Ilmana Al-Ghifary
+
+🌱 Aspiring Web Developer & Software Engineer
+💻 Currently learning HTML, CSS and JavaScript
+🔧 Building beginner-friendly projects to sharpen my skills
+📘 Always open to feedback and collaboration
+🎯 Goal: Become a full-stack developer and contribute to open-source
+
