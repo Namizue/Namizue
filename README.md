@@ -2,7 +2,7 @@
 
 🌱 Aspiring Web Developer & Software Engineer
 
-💻 Currently learning HTML, CSS and JavaScript
+💻 Currently learning HTML, CSS, JavaScript, git, and GitHub
 
 🔧 Building beginner-friendly projects to sharpen my skills
 
